@@ -1,12 +1,15 @@
-### Hi, I am Johannes 
+## Johannes Raufeisen
 
 <br>
 <br>
 
 
 <a href="https://www.linkedin.com/in/johannes-raufeisen" target="_blank" rel="nofollow">
-  <img align="left" alt="Johannes' Linkdein" width="22px" src="https://user-images.githubusercontent.com/3852580/200176467-15f2d5f7-3074-4250-a4b7-bd819b0ac91c.png" />
+  <img align="left" alt="Johannes' Linkdein" width="35px" src="https://user-images.githubusercontent.com/3852580/200176467-15f2d5f7-3074-4250-a4b7-bd819b0ac91c.png" />
 </a>
-
-
-<a href="https://stackoverflow.com/users/2641242/jora" target="_blank" rel="nofollow"><img align="left" alt="Johannes' Stackoverflow" width="26px" src="https://user-images.githubusercontent.com/3852580/200176343-23b9fdf0-c113-4d8f-b89a-f9ac2646a310.svg" /></a>
+<a href="https://stackoverflow.com/users/2641242/jora" target="_blank" rel="nofollow">
+  <img align="left" alt="Johannes' Stackoverflow" width="35px" src="https://user-images.githubusercontent.com/3852580/200176343-23b9fdf0-c113-4d8f-b89a-f9ac2646a310.svg" />
+</a>
+<a href="https://www.credly.com/badges/6bf476e6-fb49-4652-b441-a40eca36e2a8/public_url" target="_blank" rel="nofollow">
+  <img align="left" alt="Badge" width="40px" src="https://images.credly.com/size/680x680/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" />
+</a>
