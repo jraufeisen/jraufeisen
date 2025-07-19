@@ -1,8 +1,12 @@
 ## Johannes Raufeisen
 
-<br>
-<br>
+I am a passionate software engineer with experience in large-scale, distributed authentication systems.
+On GitHub, you'll mostly find me working on projects related to my personal interests:
+* Applied AI research in collaboration with the medical department at RWTH Aachen University
+* Mobile development—both native and cross-platform (Flutter)
 
+<br>
+<br>
 
 <a href="https://www.linkedin.com/in/johannes-raufeisen" target="_blank" rel="nofollow">
   <img align="left" alt="Johannes' Linkdein" width="35px" src="https://user-images.githubusercontent.com/3852580/200176467-15f2d5f7-3074-4250-a4b7-bd819b0ac91c.png" />
