@@ -3,7 +3,7 @@
 I am a passionate software engineer with experience in large-scale, distributed authentication systems.
 On GitHub, you'll mostly find me working on projects related to my personal interests:
 * Applied AI research in collaboration with the medical department at RWTH Aachen University
-* Mobile development—both native and cross-platform (Flutter)
+* Medical device development for mobile devices
 
 <br>
 
